@@ -5,7 +5,8 @@ The main form of the program: the upper half of the window contains general info
 
 Form AboutBox the program: The window of this form has a small size because it contains additional information about the program.
 
-![image](https://github.com/user-attachments/assets/c6b141a3-a192-41d3-bdc5-d57354561f9a)
+![image](https://github.com/user-attachments/assets/3c51a0f6-b096-47fe-b8c6-b51a8db806e8)
+
 
 Report: This window serves for more convenient viewing and printing of the finished report.
 
